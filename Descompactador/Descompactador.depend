@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1635134283 source:c:\descompactador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.c"
+
+1635133619 c:\descompactador\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arvore.h"
+
+1635133576 c:\descompactador\arvore.h
+
+1637581392 source:c:\maligno\descompactador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.c"
+
+1637582658 c:\maligno\descompactador\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arvore.h"
+
+1635133576 c:\maligno\descompactador\arvore.h
+

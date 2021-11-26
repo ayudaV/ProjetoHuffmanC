@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1633728862 source:c:\temp\compactador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.c"
+
+1633729025 c:\temp\compactador\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+
+1633729024 c:\temp\compactador\listadinencad.h
+
+1634500889 source:c:\users\terad\downloads\compactador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.c"
+
+1634590484 c:\users\terad\downloads\compactador\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.h"
+
+1634589959 c:\users\terad\downloads\compactador\listadinencad.h
+
+1637581342 source:c:\users\terad\downloads\compactador\compactador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.c"
+
+1637584745 c:\users\terad\downloads\compactador\compactador\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaDinEncad.h"
+
+1635160003 c:\users\terad\downloads\compactador\compactador\listadinencad.h
+
+1634644678 source:c:\temp\compactador-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.c"
+
+1634644626 c:\temp\compactador-main\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaDinEncad.h"
+
+1634605792 c:\temp\compactador-main\listadinencad.h
+
+1634678840 source:c:\users\terad\downloads\compactador-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDinEncad.c"
+
+1634679588 c:\users\terad\downloads\compactador-main\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaDinEncad.h"
+
+1634674311 c:\users\terad\downloads\compactador-main\listadinencad.h
+
